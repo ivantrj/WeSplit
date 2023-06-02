@@ -1,6 +1,6 @@
 # WeSplit
 
-Simple SwiftUI app that calculates price per person, including tip.
+Simple SwiftUI app that calculates price per person, including the tip.
 
 
 ##Screenshot
